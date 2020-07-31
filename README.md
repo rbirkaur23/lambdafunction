@@ -1,2 +1,2 @@
 # lambdafunction
-A lambda function
+A lambda function that returns square of elements
